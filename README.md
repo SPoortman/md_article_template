@@ -1,5 +1,7 @@
 This set of markdown is meant to be used with pandoc to provide an easy way to write a scientific paper in markdown. 
 
+**_To write your own paper, fork this repository and start writing!_**
+
 Here's an example commandline for the compilation of this set of markdown files to pdf, using xelatex and our template. Beautification is done by changing parameters in the abstract.md file preamble, and more detailed tweaking can be performed in the `templates/template.latex` file.
 
 ```
