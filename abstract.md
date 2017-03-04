@@ -24,6 +24,5 @@ linestretch: 1.25
 linenumber: true
 ---
 
-[//]: # pandoc --filter pandoc-citeproc --bibliography lib/papers_library.bib --latex-engine=xelatex --template=templates/template.latex abstract.md introduction.md results.md discussion.md methods.md -f markdown -t latex -s -o versions/first.pdf
 
 # Abstract
